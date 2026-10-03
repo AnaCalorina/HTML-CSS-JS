@@ -17,7 +17,7 @@ estilização, responsividade e interações com JavaScript.
 
 ## 💻 Projeto
 
-[🔗 Acessar projeto](LINK)
+[🔗 Acessar projeto](https://anacalorina.github.io/HTML-CSS-JS/)
 
 ## 📸 Preview
 
